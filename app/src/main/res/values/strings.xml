@@ -2,4 +2,12 @@
     <string name="app_name">About Me</string>
     <string name="name">Nilson Sasaki</string>
     <string name="yellow_star">Yellow Star</string>
+    <string name="bio">"Hi, my name is Nilson Sasaki!!!
+        \nI love to play sports.
+        \nI have played soccer, golf, kung-fu, baseball, shot put and javelin throw
+        \nUnfortunately i injured my back and i can't play anymore but i discovered that i love coding too
+        \nnow i'm coding almost every day to develop my coding skills, firstly i have starting coding in C language for embedded systems and now im studying kotlin, dart and swift for mobile devices
+        \nI'm currently working as a intern in Aegro and hope to become a really useful asset for the company learning a lot from them and solving a lot of their problems
+        \nI'm also studying electrical engineering in University of São Paulo (USP) but what i really want to do is coding
+        "</string>
 </resources>
